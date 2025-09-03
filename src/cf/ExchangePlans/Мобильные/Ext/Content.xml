@@ -60,4 +60,8 @@
 		<Metadata>Catalog.Валюты</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
+	<Item>
+		<Metadata>Catalog.Автомобили</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
 </ExchangePlanContent>
